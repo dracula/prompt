@@ -14,10 +14,10 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/prompt/ar
 
 #### Activating theme
 
-1. From the "Prompt" menu, select "Settings" (or press `⌘,`);
-2. Select the "Themes" tab;
-3. Select the ellipsis (...) in a circle under the list of themes;
-4. Select "Import..." from the pop-up menu;
+1. From the `Prompt` menu, select `Settings` (or press `⌘,`);
+2. Select the `Themes` tab;
+3. Select the ellipsis `(...)` in a circle under the list of themes;
+4. Select `Import...` from the pop-up menu;
 5. Navigate to the files you downloaded and unzipped;
-6. Choose `Dracula.prompttheme` and select "Open";
+6. Choose `dracula.prompttheme` and select `Open`;
 7. Boom! It's working ✨
